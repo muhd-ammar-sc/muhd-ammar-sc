@@ -1,16 +1,19 @@
-## Hi there 👋
+[profile-README-template.md](https://github.com/user-attachments/files/33082741/profile-README-template.md)
+# Hi, I'm [MUHAMMAD AMMAR BIN MOHD AZHAM]
 
-<!--
-**muhd-ammar-sc/muhd-ammar-sc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Computer Science student at UiTM interested in software engineering and AI.]
 
-Here are some ideas to get you started:
+## About me
+- Studying: [CDCS230], UiTM
+- Currently learning: [CSC649]
+- My FYP area: [Machine Learning/Artificial Intelligence]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+[SQL, Database, Java, C++, Scratch, HTML, Microsoft Access, Microsoft Excel]
+
+## Projects
+- [](link-to-your-repository): one sentence about it
+
+## Contact
+- LinkedIn: [your profile link]
+- Email:[ammarmalay27@gmail.com]
