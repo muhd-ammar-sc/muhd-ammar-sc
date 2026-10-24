@@ -12,8 +12,8 @@
 [SQL, Database, Java, C++, Scratch, HTML, Microsoft Access, Microsoft Excel]
 
 ## Projects
-- [](link-to-your-repository): one sentence about it
+- [Sentiment-Aware with Traffic Light Scheduling Optimization for Emergency Vehicle 
+Preemption](https://github.com/muhd-ammar-sc/assignment1): Machine learning-based traffic light pre-emption for emergency vehicles (Final Year Project)
 
 ## Contact
-- LinkedIn: [your profile link]
-- Email:[ammarmalay27@gmail.com]
+- Email:[2024410882@student.uitm.edu.my]
